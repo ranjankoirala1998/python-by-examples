@@ -1,6 +1,6 @@
 # Title
 
-Python Programming : Beginners To Advance
+Python Programming
 
 ## Getting Started
 
